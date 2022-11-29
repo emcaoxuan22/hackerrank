@@ -1,0 +1,14 @@
+	
+125.212.231.111
+
+studentfeedback.understanding_level to studentfeedback.bv
+https://be.mci.edu.vn/homes/get_lecturer/
+
+vd:price_min=20&price_max=60&country=PH&country=VN&speciality=34&speciality=40&BookedDateDay=0&BookedDateDay=1&BookedDateTime=8
+các tham số truyền vào
+price_min: giá bắt đầu(int)
+price_max" giá kết thúc(int)
+country: mã quốc gia(VN,...)
+speciality: chuyên ngành (chuyền vào id)
+BookedDateDay: chon thứ trong tuần(truyền vào giá trị từ (0-6))
+BookedDateTime: chọn khung thời gian trong ngày (charfield(1-8))
